@@ -75,7 +75,7 @@ Push to GitHub
 ## Phase 1 — Arrays
 
 * [✅] Find the largest element in an array
-* [ ] Find the second largest element
+* [✅] Find the second largest element
 * [ ] Check if an array is sorted
 * [ ] Remove duplicates from a sorted array
 * [ ] Move all zeroes to the end
