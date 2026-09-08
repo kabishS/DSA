@@ -1,4 +1,4 @@
-# 🚀 DSA Daily Practice
+# 🚀 DSA Daily Practice || DSA
 
 A structured **Data Structures & Algorithms (DSA)** practice repository using **Java**.
 
