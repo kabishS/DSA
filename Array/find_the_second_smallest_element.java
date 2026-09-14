@@ -9,15 +9,14 @@ public class find_the_second_smallest_element {
         int secondHighest = Integer.MIN_VALUE;
         
         for (int num : arr) {
-            // Find lowest and second lowest
             if (num < lowest) {
                 secondLowest = lowest;
                 lowest = num;
             } else if (num < secondLowest && num != lowest) {
                 secondLowest = num;
             }
+
             
-            // Find highest and second highest
             if (num > highest) {
                 secondHighest = highest;
                 highest = num;
