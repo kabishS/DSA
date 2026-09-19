@@ -1,4 +1,4 @@
-public class find_the_max_min_value {
+public class find_the_maximum_minimum_value {
     public static void main(String[] args) {
         int arr[] = {5,2,9,1,7};
         int max = arr[0];
