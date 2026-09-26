@@ -127,7 +127,7 @@ class Solution {
 **Completed:** 15 / 230
 
 ```text
-Progress: 0%
+Progress: 10%
 ```
 
 I will update the progress as I solve and push new problems.
