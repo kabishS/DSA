@@ -124,7 +124,7 @@ class Solution {
 
 **Total Problems:** 230
 
-**Completed:** 2 / 230
+**Completed:** 15 / 230
 
 ```text
 Progress: 0%
